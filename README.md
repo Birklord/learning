@@ -1,6 +1,7 @@
 # learning
 public class oddPositioning
 {
+
     static int oddPos(){
         int[] a={32, 11, 45, 65, 76, 77, 90};
         String spaces=" ";
